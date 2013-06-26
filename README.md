@@ -1,7 +1,7 @@
 socket programming tutorials
 ============================
 
-Socket programming tutorials on Binarytides
+Socket programming tutorials on <a href="http://www.binarytides.com/">Binarytides</a>.
 
 Socket programming involves writing programs or applications that are able to talk to other computers or machine over a network
 like LAN or internet. Browsers like google chrome, firefox, chat applications like pidgin, skype are all examples of applications
